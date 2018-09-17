@@ -1,5 +1,8 @@
 _repo: The-First-Men-in-the-Moon_52501
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 52501-h/images/cover.jpg
 creator:
   author:
     agent_name: Wells, H. G. (Herbert George)
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/30
     wikipedia: http://en.wikipedia.org/wiki/H._G._Wells
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52501#The-First-Men-in-the-Moon
 gutenberg_issued: '2016-07-05'
 gutenberg_type: Text
 identifiers:
