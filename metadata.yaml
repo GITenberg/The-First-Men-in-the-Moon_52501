@@ -1,0 +1,32 @@
+_repo: The-First-Men-in-the-Moon_52501
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wells, H. G. (Herbert George)
+    alias: Wells, Herbert George
+    birthdate: 1866
+    deathdate: 1946
+    gutenberg_agent_id: '30'
+    url: http://www.gutenberg.org/2009/agents/30
+    wikipedia: http://en.wikipedia.org/wiki/H._G._Wells
+description: ''
+gutenberg_issued: '2016-07-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52501'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Moon -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Satire'
+- !lcsh 'Utopian fiction'
+- !lcsh 'Utopias -- Fiction'
+- !lcsh 'Science fiction'
+- !lcsh 'Imperialism -- Fiction'
+- !lcsh 'Space flight to the moon -- Fiction'
+- GITenberg
+title: The First Men in the Moon
+url: http://www.gutenberg.org/ebooks/52501
